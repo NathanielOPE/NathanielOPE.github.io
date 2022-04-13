@@ -21,7 +21,7 @@ const data = {
     max: 2,
   },
 
-  texthab: 'Ataque Poderoso (Classe): Você é capaz de 
+  textHabilidades: 'Ataque Poderoso (Classe): Você é capaz de 
 desferir um ataque poderoso. Quando realizar um ataque usando Luta ou Pontaria, você pode gastar 
 2 PE para receber +5 no teste. Além disso, você 
 pode trocar o bônus de +5 no teste de ataque para 
