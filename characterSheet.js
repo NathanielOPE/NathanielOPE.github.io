@@ -29,6 +29,7 @@ receber um dado adicional de dano (de acordo com
 o dado de dano da arma).
 
 Foco Total (Origem) Você está super focado. Em uma ação quando você realiza essa ação, você gasta 2 PE e você pode rolar o teste com vantagem.',
+  },
 
   weapons: [
     {
