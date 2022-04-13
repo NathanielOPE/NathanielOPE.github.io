@@ -2,9 +2,9 @@ const data = {
   name: 'Nathaniel',
   player: 'Koda',
   occupation: 'Soldado',
-  age: '?',
+  age: 'x',
   sex: 'male',
-  birthplace: '?',
+  birthplace: 'x',
   residence: 'São Paulo',
 
   life: {
@@ -26,7 +26,7 @@ const data = {
       name: 'M24',
       type: 'Fogo',
       damage: '2d8',
-      numCurrent: 1,
+      numCurrent: '1',
       numMax: '1mov',
       attack: '+5',
       reach: 'Long',
@@ -60,7 +60,7 @@ const data = {
     },
     {
       type: 'Presença',
-      amount: -1,
+      amount: '-1',
     },
     {
       type: 'Intelecto',
