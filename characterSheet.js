@@ -21,16 +21,6 @@ const data = {
     max: 2,
   },
 
-  textHabilidades: 'Ataque Poderoso (Classe): Você é capaz de 
-desferir um ataque poderoso. Quando realizar um ataque usando Luta ou Pontaria, você pode gastar 
-2 PE para receber +5 no teste. Além disso, você 
-pode trocar o bônus de +5 no teste de ataque para 
-receber um dado adicional de dano (de acordo com 
-o dado de dano da arma).
-
-Foco Total (Origem) Você está super focado. Em uma ação quando você realiza essa ação, você gasta 2 PE e você pode rolar o teste com vantagem.',
-  },
-
   weapons: [
     {
       name: 'M24',
