@@ -421,6 +421,45 @@ Foco Total (Origem) Você está super focado. Em uma ação quando você realiza
 
         <div class="combatHeader">
         <h2 class="grid-title">INVENTÁRIO</h2>
+
+ id="addinvModal" class="modal with-input">
+      <div class="modal-content">
+        <h2>ADICIONAR ITEM</h2>
+        <hr />
+        <form id="addinvForm" action="">
+          <table class="inv" id="newinv">
+            <tr>
+              <th>Item</th>
+              <th>Detalhes</th>
+              <th>Espaço</th>
+              <th>Prestígio</th>
+            </tr>
+            <tr>
+              <td>
+                <input type="text" name="invName" id="invName" />
+              </td>
+              <td>
+                <input type="text" name="invD" id="invD" />
+              </td>
+              <td>
+                <input
+                  type="text"
+                  name="invNumCurrent"
+                  id="invNumCurrent"
+                />
+              </td>
+              <td>
+                <input type="text" name="invNumMax" id="invNumMax" />
+              </td>
+              <td>
+            </tr>
+          </table>
+          <input type="submit" value="Salvar" />
+        </form>
+      </div>
+    </div>
+
+
           <button id="addinv">&plus;</button>
         </div>
         <hr />
