@@ -76,8 +76,8 @@ const data = {
 
     
     {
-    type:'Atletismo +5',
-    amount:'5',
+    type:'Atletismo',
+    amount:'+5',
     },
 
     {
@@ -106,8 +106,8 @@ const data = {
               },
         
               {
-                type:'Furtividade +5',
-                amount:'5',
+                type:'Furtividade',
+                amount:'+5',
                 },
             
                 {
@@ -116,8 +116,8 @@ const data = {
                   },
 
                   {
-                    type:'Intimidação +5',
-                    amount:'5',
+                    type:'Intimidação',
+                    amount:'+5',
                     },
                 
                     {
@@ -131,8 +131,8 @@ const data = {
                         },
                     
                         {
-                          type:'Luta +5',
-                          amount:'5',
+                          type:'Luta',
+                          amount:'+5',
                           },
                 
                           {
@@ -156,8 +156,8 @@ const data = {
                                   },
 
                                   {
-                                    type:'Pontaria +5',
-                                    amount:'+05',
+                                    type:'Pontaria',
+                                    amount:'+5',
                                     },
                                 
                                     {
@@ -181,8 +181,8 @@ const data = {
                                             },
                                         
                                             {
-                                              type:'Tática +5',
-                                              amount:'5',
+                                              type:'Tática',
+                                              amount:'+5',
                                               },
                                         
                                               {
