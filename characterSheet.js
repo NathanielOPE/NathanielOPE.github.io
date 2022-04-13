@@ -2,10 +2,10 @@ const data = {
   name: 'Nathaniel',
   player: 'Koda',
   occupation: 'Soldado',
-  age: 'x',
+  age: '22',
   sex: 'male',
-  birthplace: 'x',
-  residence: 'São Paulo',
+  birthplace: 'SP',
+  residence: 'SP',
 
   life: {
     current: 22,
@@ -26,12 +26,12 @@ const data = {
       name: 'M24',
       type: 'Fogo',
       damage: '2d8',
-      numCurrent: '1',
-      numMax: '1',
-      attack: '5',
-      reach: 'Long',
-      defect: '18 3',
-      area: 'ML',
+      numCurrent: 1,
+      numMax: 1,
+      attack: 5,
+      reach: 'long',
+      defect: 18,
+      area: '3d',
     },
     {
       name: 'Canivete',
@@ -41,8 +41,8 @@ const data = {
       numMax: '',
       attack: '5',
       reach: '',
-      defect: '20 1',
-      area: 'disc',
+      defect: 20,
+      area: '1d',
     },
   ],
   attributes: [
@@ -60,7 +60,7 @@ const data = {
     },
     {
       type: 'Presença',
-      amount: 0,
+      amount: '-1',
     },
     {
       type: 'Intelecto',
@@ -77,7 +77,7 @@ const data = {
     
     {
     type:'Atletismo',
-    amount:'+5',
+    amount:'+0',
     },
 
     {
@@ -107,7 +107,7 @@ const data = {
         
               {
                 type:'Furtividade',
-                amount:'+5',
+                amount:'+0',
                 },
             
                 {
@@ -117,7 +117,7 @@ const data = {
 
                   {
                     type:'Intimidação',
-                    amount:'+5',
+                    amount:'+0',
                     },
                 
                     {
@@ -132,7 +132,7 @@ const data = {
                     
                         {
                           type:'Luta',
-                          amount:'+5',
+                          amount:'+0',
                           },
                 
                           {
@@ -157,7 +157,7 @@ const data = {
 
                                   {
                                     type:'Pontaria',
-                                    amount:'+5',
+                                    amount:'+0',
                                     },
                                 
                                     {
@@ -182,7 +182,7 @@ const data = {
                                         
                                             {
                                               type:'Tática',
-                                              amount:'+5',
+                                              amount:'+0',
                                               },
                                         
                                               {
