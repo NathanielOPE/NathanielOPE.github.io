@@ -76,7 +76,7 @@ const data = {
 
     
     {
-    type:'Atletismo',
+    type:'Atletismo +5',
     amount:'5',
     },
 
@@ -106,7 +106,7 @@ const data = {
               },
         
               {
-                type:'Furtividade',
+                type:'Furtividade +5',
                 amount:'5',
                 },
             
@@ -116,7 +116,7 @@ const data = {
                   },
 
                   {
-                    type:'Intimidação',
+                    type:'Intimidação +5',
                     amount:'5',
                     },
                 
@@ -131,7 +131,7 @@ const data = {
                         },
                     
                         {
-                          type:'Luta',
+                          type:'Luta +5',
                           amount:'5',
                           },
                 
@@ -156,8 +156,8 @@ const data = {
                                   },
 
                                   {
-                                    type:'Pontaria',
-                                    amount:'5',
+                                    type:'Pontaria +5',
+                                    amount:'+05',
                                     },
                                 
                                     {
@@ -181,7 +181,7 @@ const data = {
                                             },
                                         
                                             {
-                                              type:'Tática',
+                                              type:'Tática +5',
                                               amount:'5',
                                               },
                                         
