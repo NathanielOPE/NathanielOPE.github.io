@@ -34,7 +34,7 @@ const data = {
       area: '3d',
     },
     {
-      name: '.38',
+      name: '38',
       type: 'Fogo',
       damage: '2d4',
       numCurrent: 3,
