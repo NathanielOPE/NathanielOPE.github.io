@@ -34,6 +34,17 @@ const data = {
       area: '3d',
     },
     {
+      name: '.38',
+      type: 'Fogo',
+      damage: '2d4',
+      numCurrent: 3,
+      numMax: 3,
+      attack: 5,
+      reach: 'curt',
+      defect: 19,
+      area: '2d',
+    },
+    {
       name: 'Canivete',
       type: 'Briga',
       damage: '1d4',
